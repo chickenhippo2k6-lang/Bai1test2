@@ -8,9 +8,9 @@ BINDING & ERRORPROVIDER)
 
 --- 
 
-**Kỹ thuật áp dụng:** Cấu hình DataGridView bằng code (`AutoGenerateColumns =
+* **Kỹ thuật áp dụng:** Cấu hình DataGridView bằng code (`AutoGenerateColumns =
 false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorProvider`.
-**Hình ảnh minh họa Giao diện:**
+* **Hình ảnh minh họa Giao diện:**
 
   
 *Mô tả: Giao diện chính hiển thị DataGridView và đồng bộ dữ liệu 2 chiều lên các
