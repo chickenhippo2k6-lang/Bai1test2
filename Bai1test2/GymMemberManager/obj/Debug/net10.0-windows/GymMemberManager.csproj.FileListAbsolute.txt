@@ -1,0 +1,17 @@
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.exe
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.deps.json
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.runtimeconfig.json
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.dll
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.pdb
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.Form1.resources
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.csproj.GenerateResource.cache
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.AssemblyInfoInputs.cache
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.AssemblyInfo.cs
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.dll
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\refint\GymMemberManager.dll
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.pdb
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.genruntimeconfig.cache
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\ref\GymMemberManager.dll
+C:\Users\TT\source\repos\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMembe.558276D9.Up2Date
